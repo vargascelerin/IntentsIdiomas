@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Попытка</string>
+    <string name="action_settings">конфигурация</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Первый фрагмент</string>
+    <string name="second_fragment_label">Второй фрагмент</string>
+    <string name="next">следующий</string>
+    <string name="previous">предыдущий</string>
+    <string name="lorem_ipsum">
+        "Век живи, век учись."
+    </string>
+</resources>
